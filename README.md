@@ -6,8 +6,14 @@ My name is Joao Paulo, but everyone calls me **Bellizia** (my last name 😄). C
 
 "Constantly evolving: every mistake is a step, every lesson a foundation."
 
-Front-End: JavaScript, TypeScript, HTML, CSS
-Back-End: Nodejs
+Front-End:
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+Back-End:
+- Nodejs
 
 
 
