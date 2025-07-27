@@ -17,5 +17,5 @@ Back-End:
 
 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-bellizia-65ab0971/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-bellizia-65ab0971/)
 
